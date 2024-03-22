@@ -1,3 +1,4 @@
 {
-  "title": "Hello world!"
+  "title": "Hello world!",
+  "select": "{count} item(s) selected"
 }
